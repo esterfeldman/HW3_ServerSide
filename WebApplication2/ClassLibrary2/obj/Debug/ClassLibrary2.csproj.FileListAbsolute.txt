@@ -1,0 +1,12 @@
+C:\Users\ester\Desktop\WebApplication2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\ester\Desktop\WebApplication2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\ester\Desktop\WebApplication2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.AssemblyReference.cache
+C:\Users\ester\Desktop\WebApplication2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\ester\Desktop\WebApplication2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\ester\Desktop\WebApplication2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\ester\Desktop\WebApplication2\ClassLibrary2\bin\Debug\ClassLibrary2.dll.config
+C:\Users\ester\Desktop\WebApplication2\ClassLibrary2\bin\Debug\EntityFramework.dll
+C:\Users\ester\Desktop\WebApplication2\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ester\Desktop\WebApplication2\ClassLibrary2\bin\Debug\EntityFramework.xml
+C:\Users\ester\Desktop\WebApplication2\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ester\Desktop\WebApplication2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CopyComplete
